@@ -106,7 +106,7 @@ For routine maintenance (e.g. opening applications) see the [maintenance section
 4. Indicate on the issue that you would like to take it on. Assign the **current course facilitator**, so that they know what you're working on.
 5. Assign [the appropriate label](#labels).
 6. Once you are sure of what you need to do and that it is needed, assign yourself to the issue.
-7. Clone, and create a new branch for your work
+7. Clone, and create a new branch for your work.
 
 #### Labels
 
@@ -189,9 +189,9 @@ eg. techforbetter.foundersandcoders.com
 
 eg. techforbetter.foundersandcoders.com redirects to foundersandcoders.com/techforbetter
 
-1. Clone the repo and make a branch for your changes
-2. Go to the file '\_redirects' in the static folder
-3. Follow the pattern you can see there for the techforbetter redirect; you should end up with 4 lines (this covers the cases of https://www, https://, http://www and http://)
+1. Clone the repo and make a branch for your changes.
+2. Go to the file '\_redirects' in the static folder.
+3. Follow the pattern you can see there for the techforbetter redirect; you should end up with 4 lines (this covers the cases of https://www, https://, http://www and http://).
 4. Add, commit and make a pull request with your changes.
 
 # Thank you for reading!
